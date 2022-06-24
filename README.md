@@ -76,7 +76,6 @@ d -- Nicht Zutreffend --> e -- Zutreffend --> FahrzeugStatusänderung2
 
 
 ```mermaid
-
 gitGraph
     commit
     commit
@@ -87,5 +86,4 @@ gitGraph
     checkout main
     commit
     commit
-
-    ```
+```

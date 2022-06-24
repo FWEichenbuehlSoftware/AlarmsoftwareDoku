@@ -75,7 +75,9 @@ d -- Nicht Zutreffend --> e -- Zutreffend --> FahrzeugStatusänderung2
 ```
 
 
-```gitGraph
+```mermaid
+
+gitGraph
     commit
     commit
     branch develop

@@ -86,4 +86,8 @@ gitGraph
     checkout main
     commit
     commit
+	branch develop2
+	commit
+	commit
+	branch develop1
 ```
